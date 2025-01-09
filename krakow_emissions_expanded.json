@@ -1,0 +1,584 @@
+{
+  "emission_data": [
+    {
+      "latitude": 50.05780849793849,
+      "longitude": 19.867148333354713,
+      "emission": 38.8
+    },
+    {
+      "latitude": 50.08217243720077,
+      "longitude": 20.028248682546558,
+      "emission": 42.7
+    },
+    {
+      "latitude": 50.02989901670287,
+      "longitude": 20.02417483997606,
+      "emission": 34.4
+    } ,
+    {
+      "latitude": 50.08128365441092,
+      "longitude": 19.958385698139526,
+      "emission": 32.1
+    },
+    {
+      "latitude": 50.00882782359157,
+      "longitude": 19.915139137151193,
+      "emission": 33.1
+    },
+    {
+      "latitude": 50.00665178886982,
+      "longitude": 19.951664235670567,
+      "emission": 7.9
+    },
+    {
+        "latitude": 50.04652635727683,
+        "longitude": 19.86921307705722,
+        "emission": 32.8
+    },
+    {
+        "latitude": 50.084589222484105,
+        "longitude": 19.857356180695117,
+        "emission": 7.4
+    },
+    {
+        "latitude": 50.05877478676479,
+        "longitude": 20.005619760310907,
+        "emission": 30.3
+    },
+    {
+        "latitude": 50.0527374204457,
+        "longitude": 19.850167945624968,
+        "emission": 36.4
+    },
+    {
+        "latitude": 50.07841993496868,
+        "longitude": 19.96844361736788,
+        "emission": 46.8
+    },
+    {
+        "latitude": 50.02860785698376,
+        "longitude": 19.98427490232013,
+        "emission": 15.3
+    },
+    {
+        "latitude": 50.01690718731914,
+        "longitude": 20.046666304689122,
+        "emission": 49.9
+    },
+    {
+        "latitude": 50.02524859707544,
+        "longitude": 20.02944364243054,
+        "emission": 35.9
+    },
+    {
+        "latitude": 50.0849184460298,
+        "longitude": 19.8967705208009,
+        "emission": 33.7
+    },
+    {
+        "latitude": 50.03536332921594,
+        "longitude": 19.941974790772957,
+        "emission": 23.8
+    },
+    {
+        "latitude": 50.02698282297212,
+        "longitude": 19.934466330303614,
+        "emission": 24.6
+    },
+    {
+        "latitude": 50.02656159064066,
+        "longitude": 19.941238269075715,
+        "emission": 32.9
+    },
+    {
+        "latitude": 50.07875300378117,
+        "longitude": 20.00417658629366,
+        "emission": 18.0
+    },
+    {
+        "latitude": 50.0617502186514,
+        "longitude": 19.904327843845067,
+        "emission": 25.4
+    },
+    {
+        "latitude": 50.092502195690116,
+        "longitude": 19.88970688973344,
+        "emission": 14.5
+    },
+    {
+        "latitude": 50.09654976287185,
+        "longitude": 19.96253723183922,
+        "emission": 28.3
+    },
+    {
+        "latitude": 50.05700146371002,
+        "longitude": 19.85791106642781,
+        "emission": 48.2
+    },
+    {
+        "latitude": 50.06866162587923,
+        "longitude": 20.03672910860367,
+        "emission": 49.4
+    },
+    {
+        "latitude": 50.09088402124245,
+        "longitude": 20.020786056766514,
+        "emission": 6.2
+    },
+    {
+        "latitude": 50.06067960921621,
+        "longitude": 20.03060420730384,
+        "emission": 3.7
+    },
+    {
+        "latitude": 50.029153646760854,
+        "longitude": 20.032714642315625,
+        "emission": 34.4
+    },
+    {
+        "latitude": 50.02438930687263,
+        "longitude": 19.908424987472564,
+        "emission": 9.7
+    },
+    {
+        "latitude": 50.05427242811606,
+        "longitude": 20.046383485358053,
+        "emission": 14.4
+    },
+    {
+        "latitude": 50.060587975118004,
+        "longitude": 19.945185964098368,
+        "emission": 18.8
+    },
+    {
+        "latitude": 50.03854391603571,
+        "longitude": 19.927298436639553,
+        "emission": 28.8
+    },
+    {
+        "latitude": 50.09504550043908,
+        "longitude": 20.0067285200833,
+        "emission": 1.4
+    },
+    {
+        "latitude": 50.05799489349011,
+        "longitude": 19.97783378029975,
+        "emission": 7.0
+    },
+    {
+        "latitude": 50.04644607568768,
+        "longitude": 19.931030077117583,
+        "emission": 10.8
+    },
+    {
+        "latitude": 50.02345913172127,
+        "longitude": 20.035363318342352,
+        "emission": 45.1
+    },
+    {
+        "latitude": 50.09061738306428,
+        "longitude": 19.92616700105175,
+        "emission": 32.2
+    },
+    {
+        "latitude": 50.012565536569696,
+        "longitude": 20.03284732637275,
+        "emission": 45.8
+    },
+    {
+        "latitude": 50.08518373779543,
+        "longitude": 20.04128848302255,
+        "emission": 31.9
+    },
+    {
+        "latitude": 50.026244978943126,
+        "longitude": 19.967409685416694,
+        "emission": 46.6
+    },
+    {
+        "latitude": 50.08076978893258,
+        "longitude": 19.909235843944053,
+        "emission": 32.4
+    },
+    {
+        "latitude": 50.09217843288974,
+        "longitude": 19.96040193680911,
+        "emission": 40.1
+    },
+    {
+        "latitude": 50.09696816076285,
+        "longitude": 19.89235017236375,
+        "emission": 23.0
+    },
+    {
+        "latitude": 50.07088059857025,
+        "longitude": 19.91845718366727,
+        "emission": 26.4
+    },
+    {
+        "latitude": 50.080057339756785,
+        "longitude": 20.039087358567063,
+        "emission": 34.0
+    },
+    {
+        "latitude": 50.01435923037906,
+        "longitude": 20.017115764763933,
+        "emission": 33.0
+    },
+    {
+        "latitude": 50.0868618047443,
+        "longitude": 19.97804671843737,
+        "emission": 41.1
+    },
+    {
+        "latitude": 50.02297761326083,
+        "longitude": 19.914694801002334,
+        "emission": 14.5
+    },
+    {
+        "latitude": 50.03681264658382,
+        "longitude": 19.879608328416733,
+        "emission": 19.1
+    },
+    {
+        "latitude": 50.05532493990234,
+        "longitude": 19.945014297563773,
+        "emission": 11.9
+    },
+    {
+        "latitude": 50.0212857091876,
+        "longitude": 20.014473416225133,
+        "emission": 17.7
+    },
+    {
+        "latitude": 50.099776907585124,
+        "longitude": 20.03624672927774,
+        "emission": 35.7
+    },
+    {
+        "latitude": 50.06752033104347,
+        "longitude": 19.91787367034904,
+        "emission": 17.3
+    },
+    {
+        "latitude": 50.0097926451315,
+        "longitude": 19.92224349242913,
+        "emission": 28.9
+    },
+    {
+        "latitude": 50.04195780602891,
+        "longitude": 19.890690496897378,
+        "emission": 36.8
+    },
+    {
+        "latitude": 50.04889618709351,
+        "longitude": 19.866454814635805,
+        "emission": 1.4
+    },
+    {
+        "latitude": 50.02448534152711,
+        "longitude": 19.900543375933072,
+        "emission": 8.9
+    },
+    {
+        "latitude": 50.01089693956335,
+        "longitude": 19.916748178230623,
+        "emission": 10.9
+    },
+    {
+        "latitude": 50.002674482064585,
+        "longitude": 19.94889131441916,
+        "emission": 26.1
+    },
+    {
+        "latitude": 50.002952375510276,
+        "longitude": 19.99795912804606,
+        "emission": 11.3
+    },
+    {
+        "latitude": 50.09457297708921,
+        "longitude": 19.86795128192532,
+        "emission": 18.9
+    },
+    {
+        "latitude": 50.01227068989156,
+        "longitude": 19.92999206958296,
+        "emission": 26.7
+    },
+    {
+        "latitude": 50.062091498494006,
+        "longitude": 19.926974844209106,
+        "emission": 38.6
+    },
+    {
+        "latitude": 50.05293113610767,
+        "longitude": 19.934985943692404,
+        "emission": 44.9
+    },
+    {
+        "latitude": 50.08413640459282,
+        "longitude": 19.98808948064963,
+        "emission": 25.2
+    },
+    {
+        "latitude": 50.09023899597612,
+        "longitude": 19.868255648773683,
+        "emission": 14.5
+    },
+    {
+        "latitude": 50.05310530502856,
+        "longitude": 20.03407724388363,
+        "emission": 13.4
+    },
+    {
+        "latitude": 50.030987945206135,
+        "longitude": 19.978282710310804,
+        "emission": 20.7
+    },
+    {
+        "latitude": 50.02458825748301,
+        "longitude": 19.89441157066311,
+        "emission": 39.8
+    },
+    {
+        "latitude": 50.043156129000856,
+        "longitude": 19.88571390974734,
+        "emission": 35.9
+    },
+    {
+        "latitude": 50.04260972756143,
+        "longitude": 19.926775291721654,
+        "emission": 36.4
+    },
+    {
+        "latitude": 50.01037628667211,
+        "longitude": 19.98068822663598,
+        "emission": 16.5
+    },
+    {
+        "latitude": 50.04236130693114,
+        "longitude": 19.92033989224258,
+        "emission": 18.6
+    },
+    {
+        "latitude": 50.0115353114925,
+        "longitude": 19.891520866397837,
+        "emission": 39.5
+    },
+    {
+        "latitude": 50.080049578597055,
+        "longitude": 19.921062652364014,
+        "emission": 16.2
+    },
+    {
+        "latitude": 50.097856754684955,
+        "longitude": 19.950304154404726,
+        "emission": 34.7
+    },
+    {
+        "latitude": 50.0625951724419,
+        "longitude": 19.90652635666673,
+        "emission": 35.2
+    },
+    {
+        "latitude": 50.08529384222885,
+        "longitude": 19.90507376101958,
+        "emission": 34.3
+    },
+    {
+        "latitude": 50.086766921095204,
+        "longitude": 19.905281119346103,
+        "emission": 3.2
+    },
+    {
+        "latitude": 50.00974007353314,
+        "longitude": 19.90669033814549,
+        "emission": 24.3
+    },
+    {
+        "latitude": 50.01720806758103,
+        "longitude": 19.936247678636736,
+        "emission": 13.7
+    },
+    {
+        "latitude": 50.06049506099143,
+        "longitude": 20.016826656428,
+        "emission": 8.5
+    },
+    {
+        "latitude": 50.08930010080786,
+        "longitude": 19.89446939026956,
+        "emission": 49.3
+    },
+    {
+        "latitude": 50.082136918548436,
+        "longitude": 19.967920571328705,
+        "emission": 9.7
+    },
+    {
+        "latitude": 50.01106310488501,
+        "longitude": 19.948135911646325,
+        "emission": 9.8
+    },
+    {
+        "latitude": 50.082894758451246,
+        "longitude": 19.95452686553213,
+        "emission": 20.4
+    },
+    {
+        "latitude": 50.01997425907588,
+        "longitude": 19.876564486052892,
+        "emission": 45.3
+    },
+    {
+        "latitude": 50.026565033340574,
+        "longitude": 19.934236061233868,
+        "emission": 2.1
+    },
+    {
+        "latitude": 50.084591160816395,
+        "longitude": 19.924440511477222,
+        "emission": 31.9
+    },
+    {
+        "latitude": 50.01441201389988,
+        "longitude": 19.91211102127856,
+        "emission": 24.6
+    },
+    {
+        "latitude": 50.06879893398391,
+        "longitude": 19.859396606386778,
+        "emission": 50.0
+    },
+    {
+        "latitude": 50.004123499731,
+        "longitude": 19.864045369945483,
+        "emission": 40.3
+    },
+    {
+        "latitude": 50.08362555885752,
+        "longitude": 19.879398728129736,
+        "emission": 3.4
+    },
+    {
+        "latitude": 50.0632239682211,
+        "longitude": 19.899044727143835,
+        "emission": 20.5
+    },
+    {
+        "latitude": 50.07850855734709,
+        "longitude": 20.018941471274267,
+        "emission": 26.0
+    },
+    {
+        "latitude": 50.05989625494567,
+        "longitude": 19.944492494037334,
+        "emission": 9.1
+    },
+    {
+        "latitude": 50.033335365715224,
+        "longitude": 19.96823391228841,
+        "emission": 15.3
+    },
+    {
+        "latitude": 50.05285483894077,
+        "longitude": 19.99292589276287,
+        "emission": 42.9
+    },
+    {
+        "latitude": 50.0165112711673,
+        "longitude": 19.965081987096312,
+        "emission": 26.3
+    },
+    {
+        "latitude": 50.036631643630955,
+        "longitude": 20.011288667724717,
+        "emission": 47.6
+    },
+    {
+        "latitude": 50.08023071433082,
+        "longitude": 19.859893748516864,
+        "emission": 20.3
+    },
+    {
+        "latitude": 50.08756232849913,
+        "longitude": 19.795320478614357,
+        "emission": 22.5
+    },
+    {
+        "latitude": 50.06398275112447,
+        "longitude": 20.10835261767446,
+        "emission": 12.7
+    },
+    {
+        "latitude": 50.09802367566467,
+        "longitude": 19.783560451084143,
+        "emission": 40.8
+    },
+    {
+        "latitude": 50.04235109832796,
+        "longitude": 19.750345983774215,
+        "emission": 35.2
+    },
+    {
+        "latitude": 50.00213485792366,
+        "longitude": 20.12567834511092,
+        "emission": 18.3
+    },
+    {
+        "latitude": 50.12148236479234,
+        "longitude": 19.80456452813962,
+        "emission": 31.6
+    },
+    {
+        "latitude": 50.09182736487693,
+        "longitude": 19.73345678351412,
+        "emission": 44.5
+    },
+    {
+        "latitude": 50.08123984765381,
+        "longitude": 20.09873254873215,
+        "emission": 21.9
+    },
+    {
+        "latitude": 50.05178329109234,
+        "longitude": 19.71234590826133,
+        "emission": 37.4
+    },
+    {
+        "latitude": 50.01876345613211,
+        "longitude": 20.09145671354189,
+        "emission": 11.5
+    },
+    {
+        "latitude": 50.11345678298345,
+        "longitude": 19.89976134527834,
+        "emission": 27.2
+    },
+    {
+        "latitude": 50.13487239467382,
+        "longitude": 20.04589372632459,
+        "emission": 15.8
+    },
+    {
+        "latitude": 50.12987213458345,
+        "longitude": 19.73645326784231,
+        "emission": 39.6
+    },
+    {
+        "latitude": 50.01452678323467,
+        "longitude": 19.69532845128423,
+        "emission": 8.7
+    },
+    {
+        "latitude": 50.13562341298712,
+        "longitude": 20.11283456789231,
+        "emission": 29.3
+    },
+    {
+        "latitude": 50.03001,
+        "longitude": 19.55530,
+        "emission": 30.3
+    }
+  ]
+}
