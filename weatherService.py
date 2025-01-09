@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import os
 
-weatherKey = "F9NY97SYHUUFV92F974GFR6TA"
+weatherKey = os.getenv("WEATHER_KEY")
 def get_info_in_current_point(lat, lng, dateFrom, dateTo):
     response2 = requests.get(f"https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/{lat}%2C%20{lng}/{dateFrom}/{dateTo}?unitGroup=metric&elements=datetime%2Cwindspeed%2Cwinddir%2Ccloudcover%2Csolarradiation%2Csunrise%2Csunset&key={weatherKey}&contentType=json")
     formatted_response2 = response2.json()
